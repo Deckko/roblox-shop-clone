@@ -1,6 +1,8 @@
-// pages/account.js
-import React from "react";
-
-export default function AccountPage() {
-  return <div>Account info here</div>;
+export default function Account() {
+  return (
+    <div>
+      <h1>Account Page</h1>
+      <p>Thông tin tài khoản.</p>
+    </div>
+  )
 }
